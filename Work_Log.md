@@ -12,4 +12,5 @@
 * Learned how to run via gulp (gulp server, then view http://localhost:8888/web/viewer.html) and how to build for older browsers (gulp generic) 
 * Got everyone to join the [IRC](https://client00.chat.mibbit.com/?server=irc.mozilla.org)
 * Got everyone up-to-date on the [style guide](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
+* Got everyone to read and go through the [Walkthrough and Interactive Examples](http://mozilla.github.io/pdf.js/examples/index.html#interactive-examples)
 * Updated [milestones](https://github.com/nyu-ossd-s18/pdf.jsplan/projects/1)
