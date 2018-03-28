@@ -14,3 +14,9 @@
 * Got everyone up-to-date on the [style guide](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * Got everyone to read and go through the [Walkthrough and Interactive Examples](http://mozilla.github.io/pdf.js/examples/index.html#interactive-examples)
 * Updated [milestones](https://github.com/nyu-ossd-s18/pdf.jsplan/projects/1)
+
+### 3/28:
+
+* Ryan decided to look through closed and open issues
+* Dora, Ashley, Ola looking at codebase
+* Sooshi looked at the codebase individually already, so she looked for more issues for us to work on to add to the Slack thread Dora started
