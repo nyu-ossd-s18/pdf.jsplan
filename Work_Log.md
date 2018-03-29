@@ -17,6 +17,8 @@
 
 ### 3/28:
 
+* We tried to message the IRC for the first time, no response
 * Ryan decided to look through closed and open issues
-* Dora, Ashley, Ola looking at codebase
+* Dora, Ashley, Ola looked at codebase to better understand the code structure
 * Sooshi looked at the codebase individually already, so she looked for more issues for us to work on to add to the Slack thread Dora started
+
