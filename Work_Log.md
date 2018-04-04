@@ -22,3 +22,5 @@
 * Dora, Ashley, Ola looked at codebase to better understand the code structure
 * Suyasha looked at the codebase individually already, so she looked for more issues for us to work on to add to the Slack thread Dora started
 
+### 4/4
+* We decided to switch projects because we've had a lot of trouble trying to understand the PDF.js codebase.
