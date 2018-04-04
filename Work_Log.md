@@ -24,3 +24,4 @@
 
 ### 4/4
 * We decided to switch projects because we've had a lot of trouble trying to understand the PDF.js codebase.
+* After some searching we encountered the MovingBlocks project and started evaluating
