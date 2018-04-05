@@ -25,3 +25,4 @@
 ### 4/4
 * We decided to switch projects because we've had a lot of trouble trying to understand the PDF.js codebase.
 * After some searching we encountered the MovingBlocks project and started evaluating
+* It seems beginner friendly and active. It also helps that the code base is in Java.
